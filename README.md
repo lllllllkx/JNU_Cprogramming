@@ -1,2 +1,2 @@
 # JNU_Cprogramming
-ppt programming
+programming projects
